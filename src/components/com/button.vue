@@ -33,7 +33,7 @@ export default {
     }
   },
   methods: {
-    handleClick(event){
+    handleClick(event){ 
       // console.log(event)
       // console.log(123)
       // this.$emit('on-click',this.msg)

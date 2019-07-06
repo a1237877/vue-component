@@ -4,7 +4,7 @@
     {{name}}
     {{app.user}}
   </div>
-</template>
+</template> 
 
 <script>
 import bus from '@/bus/bus'
